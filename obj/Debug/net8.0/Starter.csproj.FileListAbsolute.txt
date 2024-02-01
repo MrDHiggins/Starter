@@ -1,0 +1,14 @@
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+A:\builds\CsharpProjects\Branching-looping-CSharp\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll
